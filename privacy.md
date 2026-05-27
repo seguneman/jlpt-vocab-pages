@@ -1,9 +1,8 @@
 # 개인정보처리방침 / Privacy Policy
 
 **앱 이름**: 일본어 단어 학습 (JLPT단어)
-**개발자**: Sejun
-**연락처**: seguneman@gmail.com
-**최종 수정일**: 2026-05-27
+**개인정보 관련 문의**: seguneman@gmail.com
+**최종 수정일**: 2026-05-28
 **버전**: 0.1.0-beta
 
 ---

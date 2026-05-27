@@ -19,5 +19,4 @@ title: 일본어 단어 학습 (JLPT단어)
 - [개인정보처리방침 / Privacy Policy](privacy.html)
 
 ## 문의
-- 이메일: seguneman@gmail.com
-- 저장소: https://github.com/seguneman/jlpt-vocab-app
+앱 내 Google Play 의 "개발자 문의" 또는 [개인정보처리방침](privacy.html) 의 연락처를 참고해 주세요.
