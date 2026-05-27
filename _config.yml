@@ -2,8 +2,5 @@ title: 일본어 단어 학습 (JLPT단어)
 description: 오프라인 일본어 단어 학습 앱 — 수능 + JLPT N5~N1
 theme: jekyll-theme-minimal
 
-include:
-  - PRIVACY.md
-
 # 한글 인코딩
 encoding: utf-8
