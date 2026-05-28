@@ -1,8 +1,8 @@
 # 개인정보처리방침 / Privacy Policy
 
-**앱 이름**: 일본어 단어 학습 (JLPT단어)
+**앱 이름**: 린쿠단어장
 **개인정보 관련 문의**: seguneman@gmail.com
-**최종 수정일**: 2026-05-28
+**최종 수정일**: 2026-05-29
 **버전**: 0.1.0-beta
 
 ---
@@ -31,7 +31,7 @@
 - 연속 학습 일수 / 일일 학습 카운트
 
 위 정보는 모두 안드로이드의 `localStorage` 에 저장되며, 앱을 삭제하면 함께 사라집니다.
-사용자는 안드로이드 [설정 → 앱 → 일본어 단어 학습 → 저장공간 → 데이터 삭제] 로 언제든 직접 삭제할 수 있습니다.
+사용자는 안드로이드 [설정 → 앱 → 린쿠단어장 → 저장공간 → 데이터 삭제] 로 언제든 직접 삭제할 수 있습니다.
 
 ### 4. 광고 (Google AdMob)
 앱 운영비를 위해 Google AdMob 배너 광고를 표시합니다.
@@ -93,7 +93,7 @@ The following data is stored only in the user's device `localStorage` and is nev
 - Last viewed position, category selection, theme preference
 - Daily learning count, streak days
 
-Users can delete this data anytime via Android [Settings → Apps → 일본어 단어 학습 → Storage → Clear Data].
+Users can delete this data anytime via Android [Settings → Apps → 린쿠단어장 → Storage → Clear Data].
 
 ### 4. Advertising (Google AdMob)
 We display Google AdMob banner ads to fund free operation.
