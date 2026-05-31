@@ -1,6 +1,6 @@
 # 린쿠스피쿠 개인정보처리방침 / Privacy Policy
 
-**앱 이름**: 린쿠스피쿠 (LinkuSpeak, `com.sejun.linkuspeak`)
+**앱 이름**: 린쿠스피쿠 (LinkuSpeak, `com.linkuspeak.app`)
 **개인정보 관련 문의**: seguneman@gmail.com
 **최종 수정일**: 2026-06-01
 
