@@ -16,7 +16,8 @@ title: 린쿠단어장
 - **완전 오프라인 동작** — 광고만 네트워크 사용
 
 ## 문서
-- [개인정보처리방침 / Privacy Policy](privacy.html)
+- [린쿠단어장 개인정보처리방침 / Privacy Policy](privacy.html)
+- [린쿠스피쿠 개인정보처리방침 / Privacy Policy](linkuspeak-privacy.html)
 
 ## 문의
 앱 내 Google Play 의 "개발자 문의" 또는 [개인정보처리방침](privacy.html) 의 연락처를 참고해 주세요.
